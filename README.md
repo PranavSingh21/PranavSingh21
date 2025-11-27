@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @PranavSingh21
-- 👀 I’m interested in Android Development & Problem Solving
-- 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on Android projects
-- 📫 mailsandstuffs@gmail.com
-<!---
-PranavSingh21/PranavSingh21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Pranav Singh  
+🔭 Product Manager in the making — building, breaking, and improving digital experiences  
+📌 Interested in AI products, developer tools, and high-impact consumer workflows  
+🛠 Currently contributing to open-source from a PM perspective (specs, docs, UX flows, triaging)  
+📚 Learning systems thinking, product analytics, and high-quality execution frameworks  
+🤝 Open to collaborating on PM-led side projects, product specs, and OSS initiatives  
+📫 mailsandstuffs@gmail.com  
